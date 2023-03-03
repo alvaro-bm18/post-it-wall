@@ -1,0 +1,47 @@
+$bg-app: #F0F8FF;
+$title-app-color: CornflowerBlue;
+
+$footer-color: RoyalBlue;
+
+$outline-inputs: CornflowerBlue;
+
+$warning-color: tomato;
+
+$bg-note: LemonChiffon;
+$color-note: DarkSlateGrey;
+
+$pink: firebrick;
+$pink-bg: lightpink;
+
+$purple-bg: lavender;
+$purple: indigo;
+
+$blue-bg: MidnightBlue;
+$blue: MintCream;
+
+$green-bg: MediumSpringGreen;
+
+.beige {
+    background-color: $bg-note;
+    color: $color-note;
+}
+
+.pink {
+    background-color: $pink-bg;
+    color: $pink;
+}
+
+.green {
+    background-color: $green-bg;
+    color: $purple;
+}
+
+.blue {
+    background-color: $blue-bg;
+    color: $blue;
+}
+
+.purple {
+    background-color: $purple-bg;
+    color: $purple;
+}
