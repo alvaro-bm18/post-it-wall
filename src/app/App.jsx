@@ -197,7 +197,7 @@ export default class App extends Component {
         return (
             <>
                 <header className="title-app">
-                    <h2>Postick Muro</h2>
+                    <h2>Post-it-wall</h2>
                 </header>
                 <section className="create-note-container">
                     <form
